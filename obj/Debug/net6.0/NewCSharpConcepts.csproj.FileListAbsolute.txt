@@ -1,0 +1,15 @@
+C:\MyProjects\NewCSharpConcepts\bin\Debug\net6.0\NewCSharpConcepts.exe
+C:\MyProjects\NewCSharpConcepts\bin\Debug\net6.0\NewCSharpConcepts.deps.json
+C:\MyProjects\NewCSharpConcepts\bin\Debug\net6.0\NewCSharpConcepts.runtimeconfig.json
+C:\MyProjects\NewCSharpConcepts\bin\Debug\net6.0\NewCSharpConcepts.dll
+C:\MyProjects\NewCSharpConcepts\bin\Debug\net6.0\ref\NewCSharpConcepts.dll
+C:\MyProjects\NewCSharpConcepts\bin\Debug\net6.0\NewCSharpConcepts.pdb
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\NewCSharpConcepts.csproj.AssemblyReference.cache
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\NewCSharpConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\NewCSharpConcepts.AssemblyInfoInputs.cache
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\NewCSharpConcepts.AssemblyInfo.cs
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\NewCSharpConcepts.csproj.CoreCompileInputs.cache
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\NewCSharpConcepts.dll
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\ref\NewCSharpConcepts.dll
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\NewCSharpConcepts.pdb
+C:\MyProjects\NewCSharpConcepts\obj\Debug\net6.0\NewCSharpConcepts.genruntimeconfig.cache
